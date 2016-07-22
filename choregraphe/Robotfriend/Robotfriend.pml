@@ -2,21 +2,21 @@
 <Package name="Robotfriend" format_version="4">
     <Manifest src="manifest.xml" />
     <BehaviorDescriptions>
-        <BehaviorDescription name="behavior" src="behavior_1" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="test" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="speech test" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="dance" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="tests" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="testdialog" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs>
-        <Dialog name="Hello" src="Hello/Hello.dlg" />
+        <Dialog name="testing" src="testingdialog/testing.dlg" />
     </Dialogs>
     <Resources>
-        <File name="swiftswords_ext" src="test/swiftswords_ext.mp3" />
-        <File name="swiftswords_ext" src="behavior_1/swiftswords_ext.mp3" />
-        <File name="Macarena" src="test/Macarena.wav" />
-        <File name="Macarena" src="behavior_1/Macarena.ogg" />
-        <File name="Macarena new" src="Macarena new.ogg" />
+        <File name="Macarena" src="dance/Macarena.wav" />
+        <File name="Macarena" src="speech test/Macarena.ogg" />
+        <File name="Macarena final" src="Macarena final.ogg" />
     </Resources>
     <Topics>
-        <Topic name="Hello_enu" src="Hello/Hello_enu.top" topicName="Hello" language="en_US" />
+        <Topic name="testing_enu" src="testingdialog/testing_enu.top" topicName="testing" language="en_US" />
     </Topics>
     <IgnoredPaths />
 </Package>

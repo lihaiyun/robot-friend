@@ -10,11 +10,19 @@
   <language>en_US</language>
  </descriptionLanguages>
  <contents>
-  <behaviorContent path="behavior_1">
+  <behaviorContent path="speech test">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="test">
+  <behaviorContent path="dance">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="tests">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="testdialog">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
