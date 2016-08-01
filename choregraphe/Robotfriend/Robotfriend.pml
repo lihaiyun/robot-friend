@@ -12,7 +12,6 @@
     </Dialogs>
     <Resources>
         <File name="Macarena" src="dance/Macarena.wav" />
-        <File name="Macarena" src="speech test/Macarena.ogg" />
         <File name="Macarena final" src="Macarena final.ogg" />
     </Resources>
     <Topics>
