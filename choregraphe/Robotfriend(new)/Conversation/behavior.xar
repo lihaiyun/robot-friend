@@ -90,7 +90,7 @@
                             <Resource name="Speech" type="Lock" timeout="0" />
                         </Box>
                         <Box name="Dialog" id="3" localization="8" tooltip="An example of multilanguage dialog implementation" x="585" y="76">
-                            <dialogFile>../Dialog codes/Dialog.dlg</dialogFile>
+                            <dialogFile>Dialog/Dialog.dlg</dialogFile>
                             <bitmap>media/images/box/box-dialog.png</bitmap>
                             <script language="4">
                                 <content>
