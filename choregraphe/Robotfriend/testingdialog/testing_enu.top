@@ -1,9 +1,0 @@
-topic: ~testing()
-language: enu
-
-u:(Hi) Hello
-
-u:(start) okay
-
-u:(["can you" please] sit down {now}) ok i sit down $sit=1
-u:(["can you" please] stand up {now}) ok i stand up $standup=1
