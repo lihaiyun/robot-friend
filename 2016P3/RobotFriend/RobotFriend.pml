@@ -35,6 +35,7 @@
         <File name="Smoke on the Water" src="Picture_taking_session/Smoke on the Water.mp3" />
         <File name="UpTown Funk! (Mr. Heat Ringtone)" src="Picture_taking_session/UpTown Funk! (Mr. Heat Ringtone).mp3" />
         <File name="swiftswords_ext" src="Dance/swiftswords_ext.mp3" />
+        <File name="Macarena final1" src="Dance/Macarena final1.ogg" />
     </Resources>
     <Topics />
     <IgnoredPaths />
