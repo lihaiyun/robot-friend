@@ -1,0 +1,8 @@
+
+The learning faces uses a web interface to get it going. If you install the behaviour on your (or the schools) Nao robot and then access 
+http://{yourRobotsIP}/apps/learnface in a browser (if asked for a login use the login for your robots web page – the default is user nao password nao) 
+you will get a webpage where you can enter a name and click a ‘learn’ button. When you click the ‘learn’ button Nao will launch the installed behaviour 
+and talk you through getting him to learn a face. You can teach him as many faces as you want to, just repeat the process with different people.
+ 
+Face recognition behaviour : Install it on the robot and run it. When it sees a face it recognises it will say the name, wait 10 seconds and then look 
+for a face again.
