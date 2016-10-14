@@ -11,6 +11,7 @@
         <BehaviorDescription name="behavior" src="K_Unlearn_All_Face" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="Picture_taking_session" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="speech" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="Dance" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
@@ -33,6 +34,7 @@
         <File name="Panda( Marimba Remix) Ringtone" src="Picture_taking_session/Panda( Marimba Remix) Ringtone.mp3" />
         <File name="Smoke on the Water" src="Picture_taking_session/Smoke on the Water.mp3" />
         <File name="UpTown Funk! (Mr. Heat Ringtone)" src="Picture_taking_session/UpTown Funk! (Mr. Heat Ringtone).mp3" />
+        <File name="swiftswords_ext" src="Dance/swiftswords_ext.mp3" />
     </Resources>
     <Topics />
     <IgnoredPaths />

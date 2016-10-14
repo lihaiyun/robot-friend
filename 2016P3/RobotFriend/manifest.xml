@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="kaintesting10th-acefd0">
+<package uuid="robotfriend_2016p3">
  <names>
-  <name lang="en_US">Kaintesting10th</name>
+  <name lang="en_US">RobotFriend</name>
  </names>
  <supportedLanguages>
   <language>en_US</language>
@@ -31,6 +31,10 @@
    <permissions/>
   </behaviorContent>
   <behaviorContent path="Picture_taking_session">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="Dance">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
